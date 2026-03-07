@@ -1,0 +1,14 @@
+C:\Users\tyron\Downloads\DORASMAP\bin\Debug\net8.0\DORASMAP.exe
+C:\Users\tyron\Downloads\DORASMAP\bin\Debug\net8.0\DORASMAP.deps.json
+C:\Users\tyron\Downloads\DORASMAP\bin\Debug\net8.0\DORASMAP.runtimeconfig.json
+C:\Users\tyron\Downloads\DORASMAP\bin\Debug\net8.0\DORASMAP.dll
+C:\Users\tyron\Downloads\DORASMAP\bin\Debug\net8.0\DORASMAP.pdb
+C:\Users\tyron\Downloads\DORASMAP\obj\Debug\net8.0\DORASMAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tyron\Downloads\DORASMAP\obj\Debug\net8.0\DORASMAP.AssemblyInfoInputs.cache
+C:\Users\tyron\Downloads\DORASMAP\obj\Debug\net8.0\DORASMAP.AssemblyInfo.cs
+C:\Users\tyron\Downloads\DORASMAP\obj\Debug\net8.0\DORASMAP.csproj.CoreCompileInputs.cache
+C:\Users\tyron\Downloads\DORASMAP\obj\Debug\net8.0\DORASMAP.dll
+C:\Users\tyron\Downloads\DORASMAP\obj\Debug\net8.0\refint\DORASMAP.dll
+C:\Users\tyron\Downloads\DORASMAP\obj\Debug\net8.0\DORASMAP.pdb
+C:\Users\tyron\Downloads\DORASMAP\obj\Debug\net8.0\DORASMAP.genruntimeconfig.cache
+C:\Users\tyron\Downloads\DORASMAP\obj\Debug\net8.0\ref\DORASMAP.dll

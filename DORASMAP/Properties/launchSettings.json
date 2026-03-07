@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DORASMAP": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
